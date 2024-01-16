@@ -1,71 +1,65 @@
-# Getting Started with Create React App
+Welcome to my portfolio repository! This React-based portfolio site showcases my projects and my passion for front-end web development.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [About](#about)
+- [Projects](#projects)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [License](#license)
 
-In the project directory, you can run:
+## About
 
-### `npm start`
+This portfolio serves as a showcase of my skills and projects in front-end web development. It provides a glimpse into my journey, passion, and dedication to creating visually appealing and functional web applications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Projects
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here are some of the key projects featured in my portfolio:
 
-### `npm test`
+1. **[Hangman](#http://hangman.robertsmithdevelopment.co.uk):** This is a game of Hangman created in React. This project was created as part of my bootcamp curriculum.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **[Weather App](#http://weather.robertsmithdevelopment.co.uk/):** This is a Weather App I made during my time learning JavaScript. This app utilises api calls to return the weather with corresponding icons. The background picture will also change to a relevant image.
 
-### `npm run build`
+3. **[Netflix Clone Site](#http://netflixclone.robertsmithdevelopment.co.uk/):** This is a react made recreation of the main Netflix landing page when you are prompted to create an account or sign in.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React
+- HTML5
+- CSS3
+- JavaScript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To get a local copy of this project up and running, follow these simple steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository to your local machine:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/RobSmithDevelopment/Portfolio-site.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Navigate to the project directory:
+   cd Portfolio-site
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Install the dependencies:
+   npm install
 
-## Learn More
+How to Use
+After completing the setup steps, you can run the development server:
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Visit http://localhost:3000 in your web browser to view my portfolio site locally.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-### Code Splitting
+Thank you for visiting my portfolio! If you have any questions or would like to connect, feel free to reach out.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Get in touch with me via:
+Email - Roba.smith@hotmail.com
+Linkedin - https://www.linkedin.com/in/robert-smith-62928b214/
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Portfolio-site" 
