@@ -46,17 +46,20 @@ To get a local copy of this project up and running, follow these simple steps:
    npm install
 
 How to Use
+
 After completing the setup steps, you can run the development server:
 npm start
 
 Visit http://localhost:3000 in your web browser to view my portfolio site locally.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Thank you for visiting my portfolio! If you have any questions or would like to connect, feel free to reach out.
 
 Get in touch with me via:
+
 Email - Roba.smith@hotmail.com
 Linkedin - https://www.linkedin.com/in/robert-smith-62928b214/
 
